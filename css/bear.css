@@ -15,6 +15,6 @@ html {
         position:relative;
         left: 800px;
         float:left;
-        z-index: 1;
+        z-index: 2;
     }
 }
